@@ -41,7 +41,7 @@ public class Pune {
 		}
 		
 		
-		
+	System.out.println("Array gets reversed");	
 		
 		
 		
